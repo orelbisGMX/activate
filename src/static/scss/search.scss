@@ -1,0 +1,19 @@
+.search-container{
+   display: flex;
+}
+.search-box{
+    border-radius: 50px;
+    height: 23px;
+    background-color: #ececec;
+}
+.search-box:focus{
+    background-color: #000;
+}
+.search-icon-content{
+    align-items: center;
+    display: flex;
+    box-shadow: 0px 1px 1px 1px #cacaca;
+    border-radius: 20px;
+    width: 29px;
+    justify-content: center;
+}
